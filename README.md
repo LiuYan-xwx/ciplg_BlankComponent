@@ -1,5 +1,5 @@
 # ciplg_BlankComponent
-
+~~还在担心你的 CI 不够长\~\~\~\~\~\~吗？快来使用这个插件吧！！~~  
 这是一个用于 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 的插件，提供了一个`空白`组件，它将会显示一片空白（）
 
 ## 图片
