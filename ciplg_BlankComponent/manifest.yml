@@ -1,5 +1,12 @@
 ﻿id: LiuYan_BlankComponent
 name: 空白组件
+icon: icon.png
 apiVersion: 1.4.2.0
+version: 1.0.0
 description: 添加一个空白组件
 entranceAssembly: "ciplg_BlankComponent.dll"
+url: https://github.com/LiuYan-xwx/ciplg_BlankComponent
+author: LiuYan_xwx
+repoOwner: LiuYan_xwx
+repoName: ciplg_BlankComponent
+assetsRoot: master/ciplg_BlankComponent
