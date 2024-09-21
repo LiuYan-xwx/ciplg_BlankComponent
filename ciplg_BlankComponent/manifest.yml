@@ -1,0 +1,5 @@
+﻿id: LiuYan_BlankComponent
+name: 空白组件
+apiVersion: 1.4.2.0
+description: 添加一个空白组件
+entranceAssembly: "ciplg_BlankComponent.dll"
