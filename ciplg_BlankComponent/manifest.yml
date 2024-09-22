@@ -2,7 +2,7 @@
 name: 空白组件
 icon: icon.png
 apiVersion: 1.4.2.0
-version: 1.0.0
+version: 1.0.1
 description: 添加一个空白组件
 entranceAssembly: "ciplg_BlankComponent.dll"
 url: https://github.com/LiuYan-xwx/ciplg_BlankComponent
