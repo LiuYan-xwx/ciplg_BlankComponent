@@ -10,7 +10,10 @@
 您可以使用组件的设置界面设置空白的大小，亦可用右侧的 TextBox 手动输入数值。
 
 ## 安装
-由于本插件目前并未上架 ClassIsland 插件市场，您可以进行手动安装。
+### 从市场安装
+~~由于本插件目前并未上架 ClassIsland 插件市场，您可以进行手动安装。~~  
+现插件已经上架了 ClassIsland 官方插件市场，您可在 ClassIsland 插件页面的市场中找到本插件，点击安装按钮，即可开始使用。
+### 手动安装
 - 在 [Releases](https://github.com/LiuYan-xwx/ciplg_BlankComponent/releases) 界面下载最新发行版
 - 按照 ClassIsland 要求从本地安装插件
 
