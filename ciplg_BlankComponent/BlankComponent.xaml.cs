@@ -25,7 +25,7 @@ namespace ciplg_BlankComponent
         "546CCD02-DCB4-59D8-DF74-5770EF2AD91C",
         "空白",
         PackIconKind.CheckboxBlankOutline,
-        "显示空白。"
+        "显示一片空白。"
     )]
     public partial class BlankComponent : ComponentBase<BlankComponentSettings>
     {

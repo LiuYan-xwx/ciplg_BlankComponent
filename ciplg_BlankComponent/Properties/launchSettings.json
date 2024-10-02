@@ -5,9 +5,9 @@
     },
     "配置文件 1": {
       "commandName": "Executable",
-      "executablePath": "C:\\Users\\asc\\source\\repos\\ClassIsland\\ClassIsland\\bin\\Debug\\net8.0-windows\\ClassIsland.exe",
+      "executablePath": "C:\\Users\\asc\\source\\repos\\LiuYan_xwx\\ClassIsland\\ClassIsland\\bin\\Debug\\net8.0-windows\\ClassIsland.exe",
       "commandLineArgs": "-epp C:\\Users\\asc\\source\\repos\\ciplg_BlankComponent\\ciplg_BlankComponent\\bin\\Debug\\net8.0-windows",
-      "workingDirectory": "C:\\Users\\asc\\source\\repos\\ClassIsland\\ClassIsland\\bin\\Debug\\net8.0-windows\\"
+      "workingDirectory": "C:\\Users\\asc\\source\\repos\\LiuYan_xwx\\ClassIsland\\ClassIsland\\bin\\Debug\\net8.0-windows\\"
     }
   }
 }
